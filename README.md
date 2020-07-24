@@ -8,9 +8,9 @@
 
 <p  align="center">
   <a  href="">
-  <img  src="https://img.shields.io/github/stars/obrenoco/annoying-bomb" />
+  <img  src="https://img.shields.io/github/stars/obrenoco/annoying-btn" />
   </a>
-  <img  src="https://img.shields.io/github/forks/obrenoco/annoying-bomb" />
+  <img  src="https://img.shields.io/github/forks/obrenoco/annoying-btn" />
   </a>
 </p>
 
@@ -76,7 +76,7 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you u
 
 
 
-```git clone git@github.com:obrenoco/annoying-buttom.git```
+```git clone git@github.com:obrenoco/annoying-btn.git```
 
 
 
