@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+button {
+    position: absolute;
+    top: 10px;
+    left: 50px;
+    padding: 23px;
+    font-weight: bold;
+    background-color: white;
+}
